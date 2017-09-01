@@ -7,7 +7,7 @@ import pymongo
 import datetime
 
 
-token = '308090481:AAHisVkkFnX9U7WBvUHXSkZdju409Np-TFI'
+token = '410552084:AAETG-SNNAPM6JPOrmGP7mEN2e-rdn9kbTQ'
 
 bot = telebot.TeleBot(token)
 
